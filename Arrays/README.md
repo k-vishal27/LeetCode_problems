@@ -5,3 +5,6 @@ Best Time to Buy and Sell Stock --> Calculate the maximum profit by choosing the
 Insert Interval --> Insert a new interval into a sorted list of non-overlapping intervals and merge overlaps efficiently.
 
 threeSum --> Identify all unique triplets in an array whose sum is zero using sorting and the two-pointer technique.
+
+
+product of Array Except Self--> Efficiently computes the product of all elements except self by combining prefix and suffix products without using division. complexities == time: O(n), space: O(1)
